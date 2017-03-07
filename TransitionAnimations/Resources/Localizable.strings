@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  TransAnimationDemo
+
+  Created by ChenYing on 17/3/3.
+  Copyright © 2017年 ChenYing. All rights reserved.
+*/
+
+"transition_animation"                = "转场动画";
+"net_ease_list_title"                 = "网易新闻上拉关闭页面";
+"zdm_list_title"                      = "什么值得买左划打开评论页";
+"wechat_list_title"                   = "朋友圈查看大图随手势关闭";
+"net_ease_news"                       = "网易新闻";
+"release_close_page"                  = "释放关闭当前页";
+"pull_close_page"                     = "上拉关闭当前页";
+"zdm_detail_title"                    = "ZDM详情页";
+"zdm_comment_title"                   = "ZDM评论页";
+"zdm_tip"                             = "<--向左划动打开评论页";
+"wechat_detail_title"                 = "朋友圈";
+"wechat_content"                      = "今天发生了什么？";
+"news_content"                        = "The United States \"strongly supports NATO and will be unwavering in its commitment to the trans-Atlantic alliance,\" said Vice President Mike Pence in a speech at the Munich Security Conference.\"But Europe's defense,\" he said, \"requires your commitment as much as ours. Our trans-Atlantic alliance has at its core two principles that are central to this mission.\"In Article Five, alliance members pledge to come to each other's aid in the event of an attack. In Article Three, members vow to contribute, maintain and develop their individual and collective capacity to resist attack. \"The promise to share the burden of our defense has gone unfulfilled for too many, for too long,\" said Vice President Pence. \"And it erodes the very foundation of our alliance.\"In 2014, each member state committed to work towards spending 2 percent of its gross domestic product on defense within a decade. But only the United States and four other members are meeting the standard, Mr. Pence said.\"Let me be clear on this point: the president of the United States expects our allies to keep their word to fulfil this commitment, and, for most, that means the time has come to do more,\" said Mr. Pence.The rise of adversaries new and old demands a strong response from NATO, said the Vice President. In the east, NATO has embarked on improvement in its deterrent posture by stationing four combat-ready multinational battalions in Poland and the Baltic states. The United States will continue its leadership role in this enhanced forward presence initiative and other critical joint actions.With regard to Ukraine, said Vice President Pence, \"our alliance will continue to hold Russia accountable and demand that they honor the Minsk Agreements, beginning with de-escalating violence in eastern Ukraine.\"At the same time, Vice President Pence urged NATO to adapt to new challenges. In particular, he noted the need for the alliance \"to intensify efforts to cut off terrorist funding and increase cyber capabilities.\"A stronger NATO means a safer world, and the United States of America looks forward to continuing to work with its partners in NATO to achieve just that.";
